@@ -1,0 +1,596 @@
+[
+  {
+    "url": "index.html",
+    "title": "GlucosePulse | Simple Glucose Logging & Health Education",
+    "section": "Home",
+    "description": "A privacy-focused companion for manual glucose logging plus practical health education. Educational content only; not medical advice."
+  },
+  {
+    "url": "about.html",
+    "title": "About GlucosePulse",
+    "section": "About",
+    "description": "Learn about the purpose, editorial approach, and privacy-first philosophy behind GlucosePulse."
+  },
+  {
+    "url": "contact.html",
+    "title": "Contact GlucosePulse",
+    "section": "Contact",
+    "description": "Contact the GlucosePulse team for support, corrections, accessibility feedback, or general questions."
+  },
+  {
+    "url": "privacy-policy.html",
+    "title": "Privacy Policy",
+    "section": "Legal",
+    "description": "Read the GlucosePulse privacy policy and understand how website data and analytics are handled."
+  },
+  {
+    "url": "terms.html",
+    "title": "Terms of Use",
+    "section": "Legal",
+    "description": "Terms governing use of the GlucosePulse website and its educational content."
+  },
+  {
+    "url": "medical-disclaimer.html",
+    "title": "Medical Disclaimer",
+    "section": "Legal",
+    "description": "Important limits of GlucosePulse educational content and tools. Not a substitute for professional medical care."
+  },
+  {
+    "url": "cookie-policy.html",
+    "title": "Cookie Policy",
+    "section": "Legal",
+    "description": "Learn how cookies, local storage, analytics, and advertising technologies may be used."
+  },
+  {
+    "url": "editorial-policy.html",
+    "title": "Editorial Policy",
+    "section": "Legal",
+    "description": "How GlucosePulse creates, reviews, updates, and corrects health education content."
+  },
+  {
+    "url": "accessibility.html",
+    "title": "Accessibility Statement",
+    "section": "Legal",
+    "description": "GlucosePulse accessibility goals, supported features, and how to report barriers."
+  },
+  {
+    "url": "advertising-disclosure.html",
+    "title": "Advertising & Monetization Disclosure",
+    "section": "Legal",
+    "description": "How advertising may support the website and how ads are separated from editorial content."
+  },
+  {
+    "url": "data-deletion.html",
+    "title": "Data Deletion Request",
+    "section": "Legal",
+    "description": "Instructions for requesting deletion of information submitted through the website."
+  },
+  {
+    "url": "sitemap.html",
+    "title": "HTML Sitemap",
+    "section": "Navigation",
+    "description": "Browse the complete GlucosePulse website sitemap."
+  },
+  {
+    "url": "app.html",
+    "title": "GlucosePulse App",
+    "section": "App",
+    "description": "Explore the GlucosePulse manual logging and tracking app."
+  },
+  {
+    "url": "features.html",
+    "title": "GlucosePulse Features",
+    "section": "App",
+    "description": "See the main features designed for simple manual glucose tracking."
+  },
+  {
+    "url": "faq.html",
+    "title": "Frequently Asked Questions",
+    "section": "Help",
+    "description": "Answers to common questions about glucose logging, the app, privacy, and this website."
+  },
+  {
+    "url": "getting-started.html",
+    "title": "Getting Started With Glucose Logging",
+    "section": "Guides",
+    "description": "A practical introduction to organizing a personal glucose log."
+  },
+  {
+    "url": "logging-tips.html",
+    "title": "Glucose Logging Tips",
+    "section": "Guides",
+    "description": "Simple ways to make a manual glucose log clearer and more useful."
+  },
+  {
+    "url": "reading-a-log.html",
+    "title": "How to Read a Glucose Log",
+    "section": "Guides",
+    "description": "Understand common fields in a glucose log without trying to diagnose yourself."
+  },
+  {
+    "url": "questions-for-doctor.html",
+    "title": "Questions to Ask Your Healthcare Professional",
+    "section": "Guides",
+    "description": "A checklist for discussing patterns or concerns in your personal records."
+  },
+  {
+    "url": "what-is-blood-glucose.html",
+    "title": "What Is Blood Glucose?",
+    "section": "Health Education",
+    "description": "Educational guide: What Is Blood Glucose?. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "blood-glucose-basics.html",
+    "title": "Blood Glucose Basics",
+    "section": "Health Education",
+    "description": "Educational guide: Blood Glucose Basics. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "fasting-glucose-overview.html",
+    "title": "Understanding Fasting Glucose",
+    "section": "Health Education",
+    "description": "Educational guide: Understanding Fasting Glucose. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "post-meal-glucose.html",
+    "title": "Understanding Post-Meal Glucose",
+    "section": "Health Education",
+    "description": "Educational guide: Understanding Post-Meal Glucose. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "glucose-before-meals.html",
+    "title": "Glucose Before Meals: What the Log Can Show",
+    "section": "Health Education",
+    "description": "Educational guide: Glucose Before Meals: What the Log Can Show. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "glucose-after-meals.html",
+    "title": "Glucose After Meals: Recording the Context",
+    "section": "Health Education",
+    "description": "Educational guide: Glucose After Meals: Recording the Context. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "glucose-log-template.html",
+    "title": "How to Build a Simple Glucose Log",
+    "section": "Health Education",
+    "description": "Educational guide: How to Build a Simple Glucose Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "manual-tracking-benefits.html",
+    "title": "Benefits and Limits of Manual Glucose Tracking",
+    "section": "Health Education",
+    "description": "Educational guide: Benefits and Limits of Manual Glucose Tracking. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "consistent-measurements.html",
+    "title": "Why Consistency Matters When Recording Measurements",
+    "section": "Health Education",
+    "description": "Educational guide: Why Consistency Matters When Recording Measurements. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "measurement-timing.html",
+    "title": "Choosing Consistent Measurement Times",
+    "section": "Health Education",
+    "description": "Educational guide: Choosing Consistent Measurement Times. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "meal-context.html",
+    "title": "Why Meal Context Matters in a Personal Log",
+    "section": "Health Education",
+    "description": "Educational guide: Why Meal Context Matters in a Personal Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "exercise-context.html",
+    "title": "Recording Exercise Alongside Glucose Measurements",
+    "section": "Health Education",
+    "description": "Educational guide: Recording Exercise Alongside Glucose Measurements. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "sleep-and-glucose-log.html",
+    "title": "Recording Sleep Alongside Glucose Data",
+    "section": "Health Education",
+    "description": "Educational guide: Recording Sleep Alongside Glucose Data. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "stress-and-glucose-log.html",
+    "title": "Recording Stress and Glucose Data",
+    "section": "Health Education",
+    "description": "Educational guide: Recording Stress and Glucose Data. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "hydration-and-health-log.html",
+    "title": "Recording Hydration as Context",
+    "section": "Health Education",
+    "description": "Educational guide: Recording Hydration as Context. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "medication-log-safety.html",
+    "title": "Keeping Medication Information Separate From Self-Diagnosis",
+    "section": "Health Education",
+    "description": "Educational guide: Keeping Medication Information Separate From Self-Diagnosis. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "symptoms-and-log.html",
+    "title": "Recording Symptoms Alongside Measurements",
+    "section": "Health Education",
+    "description": "Educational guide: Recording Symptoms Alongside Measurements. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "illness-and-glucose-log.html",
+    "title": "How Illness Can Affect a Personal Log",
+    "section": "Health Education",
+    "description": "Educational guide: How Illness Can Affect a Personal Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "travel-and-glucose-routine.html",
+    "title": "Maintaining a Log While Traveling",
+    "section": "Health Education",
+    "description": "Educational guide: Maintaining a Log While Traveling. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "work-schedule-and-glucose.html",
+    "title": "Glucose Logging Around Shift Work",
+    "section": "Health Education",
+    "description": "Educational guide: Glucose Logging Around Shift Work. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "weekend-routines.html",
+    "title": "Tracking Changes in Weekend Routines",
+    "section": "Health Education",
+    "description": "Educational guide: Tracking Changes in Weekend Routines. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "morning-routine.html",
+    "title": "Building a Simple Morning Tracking Routine",
+    "section": "Health Education",
+    "description": "Educational guide: Building a Simple Morning Tracking Routine. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "evening-routine.html",
+    "title": "Building a Simple Evening Tracking Routine",
+    "section": "Health Education",
+    "description": "Educational guide: Building a Simple Evening Tracking Routine. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "before-bed-log.html",
+    "title": "What to Record Before Bed",
+    "section": "Health Education",
+    "description": "Educational guide: What to Record Before Bed. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "weekly-review.html",
+    "title": "How to Review a Week of Entries",
+    "section": "Health Education",
+    "description": "Educational guide: How to Review a Week of Entries. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "monthly-review.html",
+    "title": "How to Review a Month of Entries",
+    "section": "Health Education",
+    "description": "Educational guide: How to Review a Month of Entries. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "spotting-data-gaps.html",
+    "title": "Finding Gaps in a Health Log",
+    "section": "Health Education",
+    "description": "Educational guide: Finding Gaps in a Health Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "avoiding-duplicate-entries.html",
+    "title": "Avoiding Duplicate Entries",
+    "section": "Health Education",
+    "description": "Educational guide: Avoiding Duplicate Entries. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "units-mgdl-mmol.html",
+    "title": "mg/dL and mmol/L: Understanding Units",
+    "section": "Health Education",
+    "description": "Educational guide: mg/dL and mmol/L: Understanding Units. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "unit-conversion-basics.html",
+    "title": "Glucose Unit Conversion Basics",
+    "section": "Health Education",
+    "description": "Educational guide: Glucose Unit Conversion Basics. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "data-privacy-health-apps.html",
+    "title": "Health Data Privacy in Apps",
+    "section": "Health Education",
+    "description": "Educational guide: Health Data Privacy in Apps. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "offline-first-health-tools.html",
+    "title": "Why Offline-First Tools Can Be Useful",
+    "section": "Health Education",
+    "description": "Educational guide: Why Offline-First Tools Can Be Useful. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "phone-health-data.html",
+    "title": "Keeping Health Data Organized on Your Phone",
+    "section": "Health Education",
+    "description": "Educational guide: Keeping Health Data Organized on Your Phone. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "exporting-personal-data.html",
+    "title": "Preparing Personal Data for Export",
+    "section": "Health Education",
+    "description": "Educational guide: Preparing Personal Data for Export. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "backup-personal-health-data.html",
+    "title": "Backing Up Personal Health Records",
+    "section": "Health Education",
+    "description": "Educational guide: Backing Up Personal Health Records. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "sharing-a-log.html",
+    "title": "Sharing a Glucose Log With a Professional",
+    "section": "Health Education",
+    "description": "Educational guide: Sharing a Glucose Log With a Professional. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "printable-glucose-log.html",
+    "title": "Creating a Printable Glucose Log",
+    "section": "Health Education",
+    "description": "Educational guide: Creating a Printable Glucose Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "digital-vs-paper-log.html",
+    "title": "Digital vs Paper Glucose Logs",
+    "section": "Health Education",
+    "description": "Educational guide: Digital vs Paper Glucose Logs. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "simple-data-entry.html",
+    "title": "Making Repeated Data Entry Easier",
+    "section": "Health Education",
+    "description": "Educational guide: Making Repeated Data Entry Easier. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "glucose-log-columns.html",
+    "title": "Useful Columns for a Glucose Log",
+    "section": "Health Education",
+    "description": "Educational guide: Useful Columns for a Glucose Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "notes-in-health-log.html",
+    "title": "Writing Useful Notes in a Health Log",
+    "section": "Health Education",
+    "description": "Educational guide: Writing Useful Notes in a Health Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "date-and-time-accuracy.html",
+    "title": "Why Date and Time Accuracy Matters",
+    "section": "Health Education",
+    "description": "Educational guide: Why Date and Time Accuracy Matters. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "device-time-settings.html",
+    "title": "Checking Your Device Time Settings",
+    "section": "Health Education",
+    "description": "Educational guide: Checking Your Device Time Settings. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "measurement-device-instructions.html",
+    "title": "Following Your Device Instructions",
+    "section": "Health Education",
+    "description": "Educational guide: Following Your Device Instructions. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "meter-hygiene-basics.html",
+    "title": "Basic Hygiene Around Glucose Testing",
+    "section": "Health Education",
+    "description": "Educational guide: Basic Hygiene Around Glucose Testing. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "testing-safety-basics.html",
+    "title": "General Safety Basics for Glucose Testing",
+    "section": "Health Education",
+    "description": "Educational guide: General Safety Basics for Glucose Testing. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "when-a-reading-seems-wrong.html",
+    "title": "When a Reading Seems Unexpected",
+    "section": "Health Education",
+    "description": "Educational guide: When a Reading Seems Unexpected. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "repeat-measurement-context.html",
+    "title": "Why Context Matters Before Repeating a Measurement",
+    "section": "Health Education",
+    "description": "Educational guide: Why Context Matters Before Repeating a Measurement. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "recording-unusual-readings.html",
+    "title": "How to Record an Unusual Reading",
+    "section": "Health Education",
+    "description": "Educational guide: How to Record an Unusual Reading. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "low-reading-awareness.html",
+    "title": "Understanding Why Low Readings Deserve Attention",
+    "section": "Health Education",
+    "description": "Educational guide: Understanding Why Low Readings Deserve Attention. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "high-reading-awareness.html",
+    "title": "Understanding Why High Readings Deserve Attention",
+    "section": "Health Education",
+    "description": "Educational guide: Understanding Why High Readings Deserve Attention. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "emergency-warning-signs.html",
+    "title": "When Health Symptoms May Need Urgent Attention",
+    "section": "Health Education",
+    "description": "Educational guide: When Health Symptoms May Need Urgent Attention. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "hypoglycemia-general-info.html",
+    "title": "Hypoglycemia: General Educational Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Hypoglycemia: General Educational Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "hyperglycemia-general-info.html",
+    "title": "Hyperglycemia: General Educational Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Hyperglycemia: General Educational Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "diabetes-general-overview.html",
+    "title": "Diabetes: General Educational Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Diabetes: General Educational Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "prediabetes-general-overview.html",
+    "title": "Prediabetes: General Educational Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Prediabetes: General Educational Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "type-1-general-overview.html",
+    "title": "Type 1 Diabetes: General Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Type 1 Diabetes: General Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "type-2-general-overview.html",
+    "title": "Type 2 Diabetes: General Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Type 2 Diabetes: General Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "gestational-diabetes-overview.html",
+    "title": "Gestational Diabetes: General Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Gestational Diabetes: General Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "a1c-overview.html",
+    "title": "A1C: What It Measures",
+    "section": "Health Education",
+    "description": "Educational guide: A1C: What It Measures. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "a1c-vs-glucose-log.html",
+    "title": "A1C and Daily Glucose Logs: Different Types of Information",
+    "section": "Health Education",
+    "description": "Educational guide: A1C and Daily Glucose Logs: Different Types of Information. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "continuous-glucose-monitors.html",
+    "title": "Continuous Glucose Monitors: General Overview",
+    "section": "Health Education",
+    "description": "Educational guide: Continuous Glucose Monitors: General Overview. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "fingerstick-vs-cgm.html",
+    "title": "Fingerstick Meters and CGMs: General Differences",
+    "section": "Health Education",
+    "description": "Educational guide: Fingerstick Meters and CGMs: General Differences. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "glucose-trends.html",
+    "title": "What a Trend Means in a Log",
+    "section": "Health Education",
+    "description": "Educational guide: What a Trend Means in a Log. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "pattern-vs-single-reading.html",
+    "title": "Patterns Versus Single Readings",
+    "section": "Health Education",
+    "description": "Educational guide: Patterns Versus Single Readings. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "data-quality.html",
+    "title": "Improving the Quality of Personal Health Data",
+    "section": "Health Education",
+    "description": "Educational guide: Improving the Quality of Personal Health Data. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "measurement-conditions.html",
+    "title": "Recording Conditions Around a Measurement",
+    "section": "Health Education",
+    "description": "Educational guide: Recording Conditions Around a Measurement. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "food-journal-context.html",
+    "title": "Combining a Food Journal With Glucose Notes",
+    "section": "Health Education",
+    "description": "Educational guide: Combining a Food Journal With Glucose Notes. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "exercise-journal-context.html",
+    "title": "Combining Exercise Notes With Glucose Records",
+    "section": "Health Education",
+    "description": "Educational guide: Combining Exercise Notes With Glucose Records. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "sleep-journal-context.html",
+    "title": "Combining Sleep Notes With Glucose Records",
+    "section": "Health Education",
+    "description": "Educational guide: Combining Sleep Notes With Glucose Records. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "stress-journal-context.html",
+    "title": "Combining Stress Notes With Glucose Records",
+    "section": "Health Education",
+    "description": "Educational guide: Combining Stress Notes With Glucose Records. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "routine-changes.html",
+    "title": "Documenting Changes in Routine",
+    "section": "Health Education",
+    "description": "Educational guide: Documenting Changes in Routine. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "doctor-visit-prep.html",
+    "title": "Preparing Your Glucose Log for an Appointment",
+    "section": "Health Education",
+    "description": "Educational guide: Preparing Your Glucose Log for an Appointment. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "new-diagnosis-log.html",
+    "title": "Building a Log After a New Diagnosis",
+    "section": "Health Education",
+    "description": "Educational guide: Building a Log After a New Diagnosis. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "privacy-by-design.html",
+    "title": "Privacy-by-Design Principles for Health Tools",
+    "section": "Health Education",
+    "description": "Educational guide: Privacy-by-Design Principles for Health Tools. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "secure-device-basics.html",
+    "title": "Basic Device Security for Health Information",
+    "section": "Health Education",
+    "description": "Educational guide: Basic Device Security for Health Information. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "account-security.html",
+    "title": "Protecting Accounts Used for Health Records",
+    "section": "Health Education",
+    "description": "Educational guide: Protecting Accounts Used for Health Records. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "phishing-health-apps.html",
+    "title": "Avoiding Phishing Around Health Accounts",
+    "section": "Health Education",
+    "description": "Educational guide: Avoiding Phishing Around Health Accounts. Read practical, plain-language information and use it as a starting point for questions with a qualified professional."
+  },
+  {
+    "url": "unit-conversion.html",
+    "title": "Glucose Unit Conversion Guide",
+    "section": "Tools",
+    "description": "Understand the relationship between mg/dL and mmol/L for glucose readings."
+  },
+  {
+    "url": "search.html",
+    "title": "Search GlucosePulse",
+    "section": "Navigation",
+    "description": "Search the GlucosePulse website for app information, health education, tools, and policies."
+  }
+]
